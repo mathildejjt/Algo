@@ -36,5 +36,15 @@ attackSurvivant () {
     names.attack (Math.random) 
 }
 
+esquive () {
+console.log(survivant1 + ' a evite l\'attaque du' + tueur)
+}
+
+if tueur (attackSurvivant) {
+    console.log (names + " a ete assassine")
+} else { (esquive) 
+    console.log (names + " a esquivé et infligé 10 points de degats ")
+
+}
 
 console.log(names.caracteristic)
